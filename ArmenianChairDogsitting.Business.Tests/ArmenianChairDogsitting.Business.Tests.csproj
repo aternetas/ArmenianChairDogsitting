@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ArmenianChairDogsitting.API\ArmenianChairDogsitting.API.csproj" />
+    <ProjectReference Include="..\ArmenianChairDogsitting.Business\ArmenianChairDogsitting.Business.csproj" />
   </ItemGroup>
 
 </Project>
